@@ -10,9 +10,6 @@
 
 - 🌱 I’m currently learning **Python, Flutter**
 
-- 👯 I’m looking to collaborate on **WordPress related Custom Work**
-
-- 📫 How to reach me **basar@anogaa.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
